@@ -1,13 +1,13 @@
 # Portuguese Verb Flashcards
 
 Welcome to the **Portuguese Verb Flashcards** project!  
-This repository contains a collection of flashcards designed to help learners practice and memorize common Portuguese verbs.
+This repository contains a collection of flashcards designed to help learners practice and memorise common Portuguese verbs.
 
 ---
 
 ## Project Overview
 
-Learning verbs is key to mastering Portuguese. These flashcards are organized in a CSV format for easy use and integration with flashcard apps or any custom tools you prefer.
+Learning verbs is key to mastering Portuguese. These flashcards are organised in a CSV format for easy use and integration with flashcard apps or any custom tools you prefer.
 
 ---
 
