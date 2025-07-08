@@ -1,44 +1,53 @@
-Welcome to the **Portuguese Verb Flashcards** project!  
-This repository contains a collection of flashcards designed to help learners practice and memorise common Portuguese grammar and vocabulary.
+# portuguese-study-deck
+
+A structured self-study deck for learning European Portuguese through flashcards, grammar notes, sentence practice, and weekly logs.
+
+This repo helps reinforce vocabulary, conjugation, and sentence construction through practical repetition and reflection.
 
 ---
 
-## Project Overview
+## 📁 Contents
 
-Learning verbs and grammar structures is key to mastering Portuguese. These flashcards are organised in CSV format for easy use and integration with flashcard apps or any custom tools you prefer. Markdown files are also provided to help reinforce understanding through example sentences and grammar notes.
+### 🔹 Flashcards (CSV)
+Spaced repetition–ready decks for key grammar topics:
 
----
+- `flashcards.csv` – Verb conjugations and usage
+- `flashcards_possessive_adjectives.csv` – Possessive adjective forms and rules
 
-## Contents
+### 🔹 Sentence Practice (Markdown)
+Example-based grammar reinforcement:
 
-- `flashcards.csv`: The main flashcards data file containing verbs, their conjugations, and example sentences.
-- `flashcards_possessive_adjectives.csv`: Flashcards for possessive adjectives in Portuguese with notes on gender and plurality.
-- `README.md`: This file, providing an overview of the project.
-- (More files coming soon...)
+- `sentences/possessive_adjectives_sentences.md` – Example sentences using possessive adjectives in all forms
 
----
+### 🔹 Weekly Study Logs
+Logs that summarise grammar learned, vocabulary practised, and common corrections:
 
-## How to Use
-
-- **Use the CSV files** in your preferred flashcard application, or convert them for tools like **Anki**, **Quizlet**, or any other spaced repetition system (SRS).
-- **Read and practise with the Markdown files** to see grammar in action and reinforce understanding through real sentence examples.
+- `logs/2025-07-week-01.md` – First weekly log (more to follow)
 
 ---
 
-## Contribution & Expansion
+## 🚀 How to Use
 
-This is a living project. Contributions are welcome! You can help by adding:
-
-- New grammar topics
-- Additional flashcard CSVs
-- Example sentence sets in Markdown
-
-Feel free to fork the repo, make your changes, and open a pull request.
+- Use CSV files with apps like **Anki**, **Quizlet**, or any SRS-based tool
+- Review sentence markdowns to understand usage in context
+- Track your learning by maintaining or reading through weekly logs
 
 ---
 
-## License
+## 📌 Roadmap
 
-This project is open source and available under the MIT License.
-```
+Planned additions include:
+
+- More grammar-based flashcard sets (reflexives, prepositions, verb tenses)
+- Markdown explanations with visual grammar tables
+- Listening and dialogue practice (linked externally)
+
+---
+
+## 🤝 Contribute
+
+This repo reflects a personal study plan, but contributions or suggestions are welcome, especially for sentence examples or flashcard expansions. Please, feel free to contribute..
+
+---
+
 
