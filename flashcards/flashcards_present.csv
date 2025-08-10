@@ -1,52 +1,61 @@
 Verb,Tense,Portuguese,English
+#Ser
 Ser,Present,Eu sou,I am
 Ser,Present,Tu és,You are (informal)
 Ser,Present,Ele/Ela/Você é,He/She/You are
 Ser,Present,Nós somos,We are
 Ser,Present,Eles/Elas/Vocês são,They are / You (plural) are
 
+#Estar
 Estar,Present,Eu estou,I am
 Estar,Present,Tu estás,You are (informal)
 Estar,Present,Ele/Ela/Você está,He/She/You are
 Estar,Present,Nós estamos,We are
 Estar,Present,Eles/Elas/Vocês estão,They are / You (plural) are
 
+#Ter
 Ter,Present,Eu tenho,I have
 Ter,Present,Tu tens,You have (informal)
 Ter,Present,Ele/Ela/Você tem,He/She/You have
 Ter,Present,Nós temos,We have
 Ter,Present,Eles/Elas/Vocês têm,They have / You (plural) have
 
+#Fazer
 Fazer,Present,Eu faço,I do / I make
 Fazer,Present,Tu fazes,You do / You make (informal)
 Fazer,Present,Ele/Ela/Você faz,He/She/You do / make
 Fazer,Present,Nós fazemos,We do / We make
 Fazer,Present,Eles/Elas/Vocês fazem,They / You (plural) do / make
 
+#Ir
 Ir,Present,Eu vou,I go
 Ir,Present,Tu vais,You go (informal)
 Ir,Present,Ele/Ela/Você vai,He/She/You go
 Ir,Present,Nós vamos,We go
 Ir,Present,Eles/Elas/Vocês vão,They / You (plural) go
 
+#Poder
 Poder,Present,Eu posso,I can
 Poder,Present,Tu podes,You can (informal)
 Poder,Present,Ele/Ela/Você pode,He/She/You can
 Poder,Present,Nós podemos,We can
 Poder,Present,Eles/Elas/Vocês podem,They / You (plural) can
 
+#Dizer
 Dizer,Present,Eu digo,I say
 Dizer,Present,Tu dizes,You say (informal)
 Dizer,Present,Ele/Ela/Você diz,He/She/You say
 Dizer,Present,Nós dizemos,We say
 Dizer,Present,Eles/Elas/Vocês dizem,They / You (plural) say
 
+#Ver
 Ver,Present,Eu vejo,I see
 Ver,Present,Tu vês,You see (informal)
 Ver,Present,Ele/Ela/Você vê,He/She/You see
 Ver,Present,Nós vemos,We see
 Ver,Present,Eles/Elas/Vocês veem,They / You (plural) see
 
+#Dar
 Dar,Present,Eu dou,I give
 Dar,Present,Tu dás,You give (informal)
 Dar,Present,Ele/Ela/Você dá,He/She/You give
