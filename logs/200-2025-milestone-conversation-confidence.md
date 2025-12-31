@@ -1,4 +1,4 @@
-# 🇵🇹 Portuguese Study Log – Milestone: Conversation Confidence
+# Portuguese Study Log – Milestone: Conversation Confidence
 
 ## Milestone Focus
 Developing confidence in spoken European Portuguese by prioritising communication, flow, and real conversation with real people.

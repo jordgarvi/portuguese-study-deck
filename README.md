@@ -1,4 +1,4 @@
-# 🇵🇹 Portuguese Study Deck (European Portuguese)
+# Portuguese Study Deck (European Portuguese)
 
 This repository tracks my ongoing study of **European Portuguese** using:
 
