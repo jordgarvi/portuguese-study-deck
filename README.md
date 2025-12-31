@@ -4,7 +4,7 @@ This repository tracks my ongoing study of **European Portuguese** using:
 
 - Flashcards (CSV)
 - Example sentences
-- Weekly study logs
+- Study logs (weekly and milestone-based)
 
 It’s part of my long-term plan to **relocate to Portugal** and work in IT Support there. The goal is not just casual learning, but a structured system I can maintain over months and years.
 
@@ -13,7 +13,7 @@ It’s part of my long-term plan to **relocate to Portugal** and work in IT Supp
 ## 🎯 Goals
 
 - Build a reusable, extensible **study deck** for European Portuguese  
-- Track progress through **weekly logs**  
+- Track progress through **structured study logs and milestones**  
 - Reinforce grammar and vocabulary with **CSV flashcards**  
 - Practise real-world usage with **sentence examples**  
 - Show consistent commitment to Portuguese as part of my relocation strategy  
@@ -22,12 +22,12 @@ It’s part of my long-term plan to **relocate to Portugal** and work in IT Supp
 
 ## 📂 Repository Structure
 
-| Path                         | Description |
-|------------------------------|------------|
-| `flashcards/`                | CSV decks for verbs, tenses, and grammar topics |
-| `sentences/`                 | Example sentences to reinforce grammar in context |
-| `logs/`                      | Weekly study logs (what I studied and what to fix next) |
-| `README.md`                  | This overview |
+| Path          | Description |
+|---------------|-------------|
+| `flashcards/` | CSV decks for verbs, tenses, and grammar topics |
+| `sentences/`  | Example sentences to reinforce grammar in context |
+| `logs/`       | Study logs (early weekly logs + milestone-based progress logs) |
+| `README.md`   | This overview |
 
 ---
 
@@ -40,15 +40,15 @@ Located in: `flashcards/`
 Current decks:
 
 - `flashcards_past.csv`  
-  - Pretérito perfeito of high-frequency verbs (ser, estar, ter, ir, poder, dizer, ver, dar, morar, nadar, viver, brincar, passar, etc.)
+  - Pretérito perfeito of high-frequency verbs (ser, estar, ter, ir, poder, dizer, ver, dar, morar, nadar, viver, brincar, passar, etc.)  
   - Columns like: `Verb, Tense, Portuguese, English`
 
 - `flashcards_present.csv`  
-  - Present tense (presente do indicativo) of the same core verbs.
+  - Present tense (presente do indicativo) of the same core verbs.  
   - Designed to mirror the past-tense deck for comparison.
 
 - `flashcards_possessive_adjectives.csv`  
-  - Forms like: `meu/minha`, `meus/minhas`, `nosso/nossa`, `seu/sua`, etc.
+  - Forms like: `meu/minha`, `meus/minhas`, `nosso/nossa`, `seu/sua`, etc.  
   - With notes on **gender**, **number**, and usage.
 
 These decks focus on:
@@ -64,7 +64,7 @@ These decks focus on:
 Located in: `sentences/`
 
 - `possessive_adjectives_sentences.md`  
-  - Example sentences using possessive adjectives in different persons, genders, and numbers.
+  - Example sentences using possessive adjectives in different persons, genders, and numbers.  
   - Helps reinforce when to use *meu/nosso/seu/teu*, etc. in context instead of just memorising forms.
 
 The idea is to gradually add more files here for:
@@ -72,33 +72,37 @@ The idea is to gradually add more files here for:
 - Reflexive verbs  
 - Prepositions in context  
 - Common daily phrases  
-- “Week in review” sentence exercises  
+- Conversation-focused sentence practice  
 
 ---
 
-## 🗓️ Weekly Study Logs
+## 🗓️ Study Logs
 
-Located in: `logs/`  
+Located in: `logs/`
 
-Each file follows the format:  
+This repository originally used **weekly logs** to build consistency and discipline.  
+As the system matured, it transitioned to **milestone-based logs** to capture meaningful progress without a fixed time commitment.
 
-- `YYYY-MM-week-XX.md`
+Both formats are kept to show learning evolution over time.
 
-For example:
+### Log file formats
 
-- `2025-07-week-01.md`  
-- `2025-07-week-02.md`  
+- `YYYY-MM-week-XX.md` — early weekly study logs  
+- `YYYY-milestone-<focus>.md` — milestone-based progress logs  
+
+Examples:
 - `2025-07-week-03.md`  
-- `2025-07-week-04.md`  
-- `2025-08-week-05.md`
+- `2025-milestone-conversation-confidence.md`
+
+### Log structure
 
 Each log follows a consistent structure:
 
 - **Topics Studied**  
-  What grammar, vocabulary, or skills I focused on that week (e.g. reflexive verbs, adjectives, prepositions, personality descriptions).
+  Grammar, vocabulary, or skills worked on during that period.
 
 - **Vocabulary Highlights**  
-  A curated list of key words and phrases that came up repeatedly or felt important.
+  Key words and phrases that came up repeatedly or felt important.
 
 - **Common Mistakes Reviewed**  
   Typical errors in:
@@ -108,22 +112,19 @@ Each log follows a consistent structure:
   - Pronouns and determiners  
 
 - **Mini Quiz (Optional)**  
-  A short recall activity with answers (sometimes using `<details>` blocks when viewed on GitHub).
+  Short recall exercises with answers (sometimes using `<details>` blocks on GitHub).
 
 - **Reflection**  
-  Honest notes about:
+  Honest notes on:
   - What felt hard  
-  - What started to “click”  
-  - What needs revisiting  
+  - What started to click  
+  - What still needs revisiting  
 
 - **Next Steps**  
-  Concrete goals for the following week – e.g.:
-  - “Practise saber vs conhecer”  
-  - “Add 10 new adjectives to flashcards”  
-  - “Do a listening exercise and transcribe 5 sentences”
+  Clear, concrete goals for the next phase of study.
 
 - **Date Logged**  
-  Exact date so I can see my consistency over time.
+  Exact date to track consistency over time.
 
 This structure turns the repo into a **self-coaching tool** rather than random notes.
 
@@ -131,25 +132,19 @@ This structure turns the repo into a **self-coaching tool** rather than random n
 
 ## 🔁 How I Use This Repo
 
-- **During the week**
-  - Add new words/verbs to the appropriate CSV deck.
-  - Add or adjust example sentences in `sentences/`.
-  - Make rough notes on mistakes and confusion points.
+- **Ongoing**
+  - Add new words or verbs to the appropriate CSV deck.  
+  - Add or refine example sentences in `sentences/`.  
+  - Note recurring mistakes or confusion points.
 
-- **End of the week**
-  - Create a new log in `logs/` (copy the previous one as a template).
-  - Fill in:
-    - Topics Studied  
-    - Vocabulary Highlights  
-    - Common Mistakes  
-    - Reflection  
-    - Next Steps  
-  - Review the previous week’s “Next Steps” and tick off what I actually did.
+- **At milestones**
+  - Create a new log in `logs/` to document meaningful progress.  
+  - Review previous logs to identify patterns and long-term improvements.
 
 - **Over time**
-  - Track how my focus changes (verbs → adjectives → prepositions → conversation).
-  - Spot recurring weaknesses (e.g. gender agreement, prepositions with verbs like *ir*).
-  - Keep a written record that supports my relocation story when talking to Portuguese employers.
+  - Track how focus shifts (verbs → adjectives → prepositions → conversation).  
+  - Identify recurring weaknesses (e.g. gender agreement, prepositions with *ir*).  
+  - Maintain a clear written record that supports my relocation narrative when speaking with Portuguese employers.
 
 ---
 
@@ -178,11 +173,13 @@ Planned expansions:
   - Imperfect vs preterite  
   - Reflexive verbs  
   - Time expressions and connectors  
+
 - More sentence packs:
   - Talking about work and IT  
   - Customer service and support scenarios  
   - Daily life conversations  
-- More detailed logs as I approach higher levels (B1, B2)  
+
+- More detailed milestone logs as I approach higher levels (B1, B2)
 
 ---
 
